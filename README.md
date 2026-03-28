@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, Web Development, and Emerging Technologies  
 - 🌱 I’m currently learning Ethical Hacking, Network Security, and Full Stack Development  
 - 💞️ I’m looking to collaborate on cybersecurity projects, open-source contributions, and innovative tech solutions  
-- 📫 How to reach me: saipriya2612@gmail.com (replace with your actual email)  
+- 📫 How to reach me: saipriyaparikipandla@gmail.com
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I enjoy solving security challenges and exploring how systems can be protected from real-world attacks  
 <!---
